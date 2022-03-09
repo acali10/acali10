@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acali10
-- 🌱 I’m currently learning front end
+- 🌱 I’m currently learning full stack and loving!
 
 <!---
 acali10/acali10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
