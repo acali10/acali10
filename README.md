@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @acali10
-- 🌱 I’m currently learning full stack and loving!
+- 👋 Hi, I’m Caline. Nice to meet you!
+- 25y, living in Brazil, gamer and a such lover for technology.
 
 <!---
 acali10/acali10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
